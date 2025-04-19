@@ -23,7 +23,7 @@ I'm a curious and creative Computer Science student at APU who thrives at the in
 
 🌐 Portfolio: My Awesome Portfolio
 
-💼 LinkedIn: LinkedIn Profile
+💼 LinkedIn: (https://www.linkedin.com/in/gilang-eko-vinanda-77b08928b/)
 
 ✨ Quote I Live By
 "Code with logic. Design with passion. Live with curiosity."
