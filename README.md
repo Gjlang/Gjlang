@@ -6,6 +6,7 @@
 I'm a curious, creative Computer Science student at APU who loves building where logic meets imagination. Whether I'm coding an AI model or crafting a clean interface, I enjoy turning ideas into real, useful products. As an ENFP, I thrive on exploring new concepts, collaborating with others, and juggling exciting projects across multiple domains.
 </p>
 
+
 ---
 
 ## 💻 Tech Stack:
